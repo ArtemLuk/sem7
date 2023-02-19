@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\dop1.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\dop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\dop1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\dop1.AssemblyInfo.cs
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\dop1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\education\18.02.23\dop1\bin\Debug\net6.0\dop1.exe
+C:\Users\HP\Documents\education\18.02.23\dop1\bin\Debug\net6.0\dop1.deps.json
+C:\Users\HP\Documents\education\18.02.23\dop1\bin\Debug\net6.0\dop1.runtimeconfig.json
+C:\Users\HP\Documents\education\18.02.23\dop1\bin\Debug\net6.0\dop1.dll
+C:\Users\HP\Documents\education\18.02.23\dop1\bin\Debug\net6.0\dop1.pdb
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\dop1.dll
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\refint\dop1.dll
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\dop1.pdb
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\dop1.genruntimeconfig.cache
+C:\Users\HP\Documents\education\18.02.23\dop1\obj\Debug\net6.0\ref\dop1.dll
